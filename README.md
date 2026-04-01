@@ -103,15 +103,6 @@ from the class and ended up with 1,607. <br>
 | Compost               |   0.98    |  0.99  |   0.98   |
 | Specialized Disposal  |   0.98    |  0.99  |   0.98   |
 
-**Class Examples**
-- Recycle
-<img src='Recycle Class.png' alt="recycle class images" width="200" height="200">
-- Trash
-<img src='Trash Class.png' alt="trash class images" width="200" height="200">
-- Compost
-<img src='Compost Class.png' alt="compost class images" width="200" height="200">
-- Specialized Disposal
-<img src='Specialized Disposal Class.png' alt="specialized disposal class images" width="200" height="200">
 
 **Confusion Matrix**
 <img src='confusion_matrix_normalized.png' alt="Normalized Comfusion Matrix" width="500">
